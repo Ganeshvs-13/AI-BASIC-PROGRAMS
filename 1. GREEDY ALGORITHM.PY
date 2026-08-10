@@ -1,4 +1,4 @@
-print("GANESH V S  24BECS157 ")
+print("GANESH V S   24BECS157 ")
 print("Best-First Search Algorithm Implementation")
 from queue import PriorityQueue
 
