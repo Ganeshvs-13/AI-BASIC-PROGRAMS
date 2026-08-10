@@ -1,4 +1,4 @@
-print("GANESH V S  24BECS157 ")
+print("GANESH V S   24BECS157 ")
 print("mean end analysis")
 class MeanEndAnalysis:
     def __init__(self, operators):
