@@ -2,8 +2,6 @@ print("GANESH V S  24BECS157 ")
 print("Best-First Search Algorithm Implementation")
 #implementation of BFS and DFS
 
-
-
 from collections import deque
 
 def bfs(graph, start):
