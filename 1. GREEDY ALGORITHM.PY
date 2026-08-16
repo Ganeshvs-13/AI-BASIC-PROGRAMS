@@ -46,3 +46,6 @@ if __name__ == "__main__":
     path, cost = best_first_Search(graph, 'A', 'F', heuristics)
     print(f"Path found by Best-First Search: {path} with target heuristic: {cost}")
 
+
+
+
