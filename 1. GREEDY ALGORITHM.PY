@@ -20,7 +20,7 @@ def best_first_Search(graph, start, target, heuristics):
             if neighbor not in visited:
                 visited.add(neighbor)
                 pq.put((heuristics[neighbor], neighbor, path + [neighbor]))
-
+  
     return None, None
 
 
